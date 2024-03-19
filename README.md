@@ -1,39 +1,39 @@
 ### Hi there 👋
 
-Sou Marcos Tufaniuk Tavares, um desenvolvedor de software apaixonado por programação.  
+I'm Marcos Tufaniuk Tavares, a software developer passionate about programming.  
 
-Neste repositório, você encontrará:  
+In this repository you will find:  
 
-Projetos de código aberto que desenvolvi  
-Artigos sobre desenvolvimento web  
-Tenho como objetivo:  
+Open source projects I developed  
+Articles about web development  
+I aim to:  
 
-Compartilhar meu conhecimento e experiência com a comunidade de desenvolvedores  
-Ajudar outras pessoas a aprender e crescer como desenvolvedores  
-Fazer parte de uma comunidade que ama programar  
-Se você se interessa por:  
+Share my knowledge and experience with the developer community  
+Help others learn and grow as developers  
+Be part of a community that loves programming  
+If you are interested in:  
 
 HTML5  
 CSS3  
 JavaScript  
 PHP  
-Desenvolvimento web  
-Então você está no lugar certo!  
+Web development    
+So you are in the right place!  
 
-Sinta-se à vontade para:  
+Feel free to:  
 
-Curtir e comentar meus projetos  
-Enviar sugestões e feedback  
-Contribuir para meus repositórios  
-Obrigado por visitar meu perfil!  
+Like and comment on my projects  
+Send suggestions and feedback  
+Contribute to my repositories  
+Thank you for visiting my profile!  
 
-** Conecte-se comigo:**
+**Connect with me:**
 
 www.linkedin.com/in/marcos-tufaniuk-tavares-a64905250
 
-** Recursos:**
+** Resources:**
 
-#html #css #javascript #php #desenvolvimentoweb
+#html #css #javascript #php #Webdevelopment
 <!--
 **SrTufaniuk/SrTufaniuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
