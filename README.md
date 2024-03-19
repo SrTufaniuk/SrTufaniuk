@@ -1,31 +1,31 @@
 ### Hi there 👋
 
-Sou Marcos Tufaniuk Tavares, um desenvolvedor de software apaixonado por programação.
+Sou Marcos Tufaniuk Tavares, um desenvolvedor de software apaixonado por programação.  
 
-Neste repositório, você encontrará:
+Neste repositório, você encontrará:  
 
-Projetos de código aberto que desenvolvi
-Artigos sobre desenvolvimento web
-Tenho como objetivo:
+Projetos de código aberto que desenvolvi  
+Artigos sobre desenvolvimento web  
+Tenho como objetivo:  
 
-Compartilhar meu conhecimento e experiência com a comunidade de desenvolvedores
-Ajudar outras pessoas a aprender e crescer como desenvolvedores
-Fazer parte de uma comunidade que ama programar
-Se você se interessa por:
+Compartilhar meu conhecimento e experiência com a comunidade de desenvolvedores  
+Ajudar outras pessoas a aprender e crescer como desenvolvedores  
+Fazer parte de uma comunidade que ama programar  
+Se você se interessa por:  
 
-HTML5
-CSS3
-JavaScript
-PHP
-Desenvolvimento web
-Então você está no lugar certo!
+HTML5  
+CSS3  
+JavaScript  
+PHP  
+Desenvolvimento web  
+Então você está no lugar certo!  
 
-Sinta-se à vontade para:
+Sinta-se à vontade para:  
 
-Curtir e comentar meus projetos
-Enviar sugestões e feedback
-Contribuir para meus repositórios
-Obrigado por visitar meu perfil!
+Curtir e comentar meus projetos  
+Enviar sugestões e feedback  
+Contribuir para meus repositórios  
+Obrigado por visitar meu perfil!  
 
 ** Conecte-se comigo:**
 
