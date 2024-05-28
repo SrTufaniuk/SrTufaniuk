@@ -29,7 +29,7 @@ Thank you for visiting my profile!
 
 **Connect with me:**
 
-www.linkedin.com/in/marcos-tufaniuk-tavares-a64905250
+www.linkedin.com/in/srtufaniuk
 
 ** Resources:**
 
