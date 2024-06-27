@@ -1,11 +1,7 @@
 ### Hi there 👋
 
-I'm Marcos Tufaniuk Tavares, a software developer passionate about programming.  
-
-In this repository you will find:  
-
-Open source projects I developed  
-Articles about web development  
+I'm Marcos Tufaniuk Tavares, a Fullstack Developer passionate about programming.  
+  
 I aim to:  
 
 Share my knowledge and experience with the developer community  
@@ -15,9 +11,11 @@ If you are interested in:
 
 HTML5  
 CSS3  
-JavaScript  
+JavaScript
+Angular
 PHP  
-Web development    
+Python
+GDScript
 So you are in the right place!  
 
 Feel free to:  
@@ -33,7 +31,7 @@ www.linkedin.com/in/srtufaniuk
 
 ** Resources:**
 
-#html #css #javascript #php #Webdevelopment
+#html #css #javascript #angular #php #python #gdscript
 <!--
 **SrTufaniuk/SrTufaniuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
