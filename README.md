@@ -6,7 +6,7 @@ Sou Marcos Tufaniuk Tavares, um Desenvolvedor FullStack apaixonado por programa�
 
 Compartilhar meu conhecimento e experiência com a comunidade de desenvolvedores  
 Ajudar outras pessoas a aprender e crescer como desenvolvedores  
-Fazer parte de uma comunidade que adora programar.  
+Fazer parte de uma comunidade que adora programar  
 Então, se você estiver interessado em:
 
 HTML5  
